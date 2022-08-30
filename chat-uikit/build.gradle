@@ -3,6 +3,10 @@ plugins {
     id 'com.github.dcendents.android-maven'
 }
 
+group='com.github.agorabuildertest'
+artifact='chat-uikit'
+version='v0.0.3'
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"

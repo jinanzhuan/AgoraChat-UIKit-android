@@ -1,2 +1,4 @@
+apply plugin: 'com.github.dcendents.android-maven'
+
 configurations.maybeCreate("default")
 artifacts.add("default", file('chat-sdk-release.aar'))

@@ -1,6 +1,7 @@
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.agorabuildertest'
+group='com.github.jinanzhuan'
+version='1.0.6'
 
 configurations.maybeCreate("default")
 artifacts.add("default", file('chat-sdk-release.aar'))
